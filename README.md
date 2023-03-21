@@ -1,5 +1,6 @@
 # To-do-list
-A simple To-do list
+A simple To-do list 
+
 This code is a Python script that creates a graphical user interface (GUI) to manage a to-do list using the Tkinter library.
 
 The script defines several functions to add, remove, and toggle the completion status of tasks, as well as to load and save the tasks to a JSON file.
